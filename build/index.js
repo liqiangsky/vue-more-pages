@@ -1,0 +1,1 @@
+exports.pages = ["about", "home"];
